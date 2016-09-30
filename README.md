@@ -5,4 +5,5 @@ Para este ejercicio se considera que estan todos los ingredientes disponibles pa
 
 Definición de conceptos:
 1 Reservar: Poner a un lado una vez que esta listo.
+
 2 Montaje:Unir los ingredientes.
